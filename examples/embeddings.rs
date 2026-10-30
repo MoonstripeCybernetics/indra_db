@@ -272,7 +272,7 @@ fn main() -> Result<()> {
     print_comparison_table();
 
     println!("\n📚 For more details, see EMBEDDINGS.md");
-    println!("   https://github.com/moonstripe/indra_db/blob/main/EMBEDDINGS.md");
+    println!("   https://github.com/MoonstripeCybernetics/indra_db/blob/main/EMBEDDINGS.md");
 
     Ok(())
 }

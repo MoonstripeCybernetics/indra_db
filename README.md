@@ -132,7 +132,7 @@ The agent gets these tools:
 - `indra_diff` — Compare branches or points in history
 - `indra_history` — View evolution of reasoning
 
-See [indra_db_mcp](https://github.com/moonstripe/indra_db_mcp) for full documentation.
+See [indra_db_mcp](https://github.com/MoonstripeCybernetics/indra_db_mcp) for full documentation.
 
 ## Library Usage
 

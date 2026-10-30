@@ -94,7 +94,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Graph traversal operations (neighbors, BFS, shortest path)
 - Complete test suite (54 tests)
 
-[0.1.3]: https://github.com/moonstripe/indra_db/compare/v0.1.2...v0.1.3
-[0.1.2]: https://github.com/moonstripe/indra_db/compare/v0.1.1...v0.1.2
-[0.1.1]: https://github.com/moonstripe/indra_db/compare/v0.1.0...v0.1.1
-[0.1.0]: https://github.com/moonstripe/indra_db/releases/tag/v0.1.0
+[0.1.3]: https://github.com/MoonstripeCybernetics/indra_db/compare/v0.1.2...v0.1.3
+[0.1.2]: https://github.com/MoonstripeCybernetics/indra_db/compare/v0.1.1...v0.1.2
+[0.1.1]: https://github.com/MoonstripeCybernetics/indra_db/compare/v0.1.0...v0.1.1
+[0.1.0]: https://github.com/MoonstripeCybernetics/indra_db/releases/tag/v0.1.0

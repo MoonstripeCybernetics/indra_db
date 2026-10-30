@@ -233,7 +233,7 @@ jobs:
             indra --help
             ```
 
-            See [README](https://github.com/moonstripe/indra_db#readme) for full documentation.
+            See [README](https://github.com/MoonstripeCybernetics/indra_db#readme) for full documentation.
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
